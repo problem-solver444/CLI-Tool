@@ -1,0 +1,17 @@
+{
+  "name": "@ahmed_ashraf/cli-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "inquirer": "^12.9.4"
+  }
+}
